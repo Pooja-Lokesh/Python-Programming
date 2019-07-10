@@ -15,12 +15,21 @@
 7.Dictonaries
 
 8.Tuples and sets
+
 9.Functions 
+
 10.Lambdas and built-in functions
+
 11.Modules
+
 12.Debugging and error handling
+
 13.making http requests with python
+
 14.OOPS
+
 15.iterators,generators,decorators
+
 16.Web scrapping
+
 17.Regular expressions
