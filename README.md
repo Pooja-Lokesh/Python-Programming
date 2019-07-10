@@ -33,3 +33,5 @@
 16.Web scrapping
 
 17.Regular expressions
+
+18.Python + SQL
