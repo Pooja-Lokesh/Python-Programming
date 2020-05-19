@@ -1,4 +1,4 @@
-# Python-SQL
+# Python-Programming
 
 1.Windows Python setup
 
@@ -31,7 +31,3 @@
 15.iterators,generators,decorators
 
 16.Web scrapping
-
-17.Regular expressions
-
-18.Python + SQL
